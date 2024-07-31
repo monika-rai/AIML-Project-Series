@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What are the admission requirements?",
+        "answer": "The admission requirements are: a high school diploma, a minimum GPA of 3.0, and SAT/ACT scores.",
+        "keywords": ["admission", "requirements", "gpa", "sat", "act"]
+    },
+    {
+        "question": "What is the application deadline?",
+        "answer": "The application deadline is January 15th for the fall semester.",
+        "keywords": ["application", "deadline", "fall"]
+    }
+]
